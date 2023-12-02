@@ -81,9 +81,13 @@
 
 
 <h3 align="left">☕️   Coding I do in my spare time :</h3>
+<div align = "center">
 
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=bayramenes&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 ###
 
 [![enesbayram's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=enesbayram&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+  
+</div>
